@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "concretejs": "^3.0.5",
+    "rxjs": "^7.5.2"
+  }
+}
